@@ -1,7 +1,8 @@
 # 📱 AppForm — Formulaire Android avec Navigation
 
-> **LAB 3 — Programmation Mobile : Android avec Java**  
+> **LAB 3 — Programmation Mobile : Android avec Java** 
 > Formulaire de saisie avec navigation entre deux activités via Intent explicite.
+https://github.com/user-attachments/assets/9c2b21a2-3427-4ba1-b1fc-1e403db7fd93
 
 ---
 
