@@ -54,7 +54,7 @@ appform/
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/TON_USERNAME/appform.git
+   git clone https://github.com/3SS1L4/appform.git
    ```
 2. Ouvre le projet dans **Android Studio**
 3. Attends la synchronisation Gradle
@@ -106,9 +106,3 @@ appform/
 
 **AMSOU ISMAIL**  
 Étudiant en développement mobile — Android Java  
-
----
-
-## 📄 Licence
-
-Projet académique — LAB 3 Programmation Mobile
