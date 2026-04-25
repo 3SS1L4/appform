@@ -108,4 +108,4 @@ appform/
 
 ## 👨‍💻 Auteur
 
-**AMSOU ISMAIL**  
+**AMSOU ISMAIL**  - Lab de développement mobile
