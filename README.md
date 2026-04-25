@@ -109,4 +109,3 @@ appform/
 ## 👨‍💻 Auteur
 
 **AMSOU ISMAIL**  
-Étudiant en développement mobile — Android Java  
